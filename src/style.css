@@ -12,3 +12,34 @@ body {
   margin-top: 10px;
   border-radius: 5%;
 }
+
+.card p {
+  font-size: 80px;
+}
+
+.card span {
+  font-size: 80px;
+}
+.numbContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.suit1 {
+  margin-left: 10px;
+}
+
+.suit2 {
+  transform: rotate(180deg);
+  margin-left: 225px;
+  margin-top: 60px;
+}
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}
